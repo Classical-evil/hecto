@@ -1,9 +1,0 @@
-/home/dl/hecto/target/debug/deps/libderive_more_impl-783602141be062c1.so: /home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/lib.rs /home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/utils.rs /home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/is_variant.rs /home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/../README.md /home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/../doc/is_variant.md
-
-/home/dl/hecto/target/debug/deps/derive_more_impl-783602141be062c1.d: /home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/lib.rs /home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/utils.rs /home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/is_variant.rs /home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/../README.md /home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/../doc/is_variant.md
-
-/home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/lib.rs:
-/home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/utils.rs:
-/home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/is_variant.rs:
-/home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/../README.md:
-/home/dl/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f/derive_more-impl-2.0.1/src/../doc/is_variant.md:
